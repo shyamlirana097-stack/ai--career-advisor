@@ -1,0 +1,23 @@
+url,country,topic,refresh_type,date_scraped,notes
+https://www.daad.de/en/study-and-research-in-germany/plan-your-studies/costs-of-education-and-living/,germany,living,weekly,2026-07-09,already good
+https://www.daad.de/en/study-and-research-in-germany/plan-your-studies/visa/,germany,visa,weekly,,
+https://www.daad.de/en/study-and-research-in-germany/plan-your-studies/requirements/,germany,admission,weekly,,
+https://www.tum.de/en/studies/fees,germany,tuition,weekly,,
+https://www.make-it-in-germany.com/en/visa-residence/types/student,germany,visa,manual,,bot-blocked; browser save
+https://www.numbeo.com/cost-of-living/in/Berlin,germany,living,weekly,2026-07-09,cross-check DAAD
+https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html,canada,visa,weekly,,slow site
+https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html,canada,visa,weekly,,proof of funds table
+https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html,canada,poststudy,weekly,,PGWP
+https://www.numbeo.com/cost-of-living/in/Toronto,canada,living,weekly,2026-07-09,
+https://www.jobbank.gc.ca/trend-analysis,canada,jobs,manual,,hub; instead search your occupation on jobbank and save its wages+outlook pages
+https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html,usa,visa,weekly,2026-07-09,MRV fee + process
+https://studyinthestates.dhs.gov/students/prepare/paying-the-i-901-sevis-fee,usa,visa,weekly,,SEVIS fee
+https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students,usa,poststudy,weekly,2026-07-09,OPT
+https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm,usa,jobs,weekly,,salary + outlook
+https://www.numbeo.com/cost-of-living/in/Boston,usa,living,weekly,2026-07-09,
+https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500,australia,visa,weekly,,fee + financial capacity
+https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485,australia,poststudy,weekly,,post-study work
+https://www.numbeo.com/cost-of-living/in/Sydney,australia,living,weekly,2026-07-09,
+https://www.nirfindia.org/Rankings,india,admission,manual,,open latest Engineering ranking then save
+https://scholarships.gov.in/,india,admission,manual,,save individual scheme pages not homepage
+https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.MKTP.KD.ZG?format=json,all,economy,live,,API Phase 4

@@ -1,0 +1,525 @@
+SOURCE: https://www.numbeo.com/cost-of-living/in/Sydney
+SCRAPED: 2026-07-09
+
+Cost of Living in Sydney. Jul 2026. Prices in Sydney
+N
+NUMBEO
+API
+The World's
+Cost of Living API
+Trusted by 100+ companies across 10+ countries — from fintech and consulting firms to global HR teams.
+Explore the API  →
+Cost of Living in Sydney
+Summary
+of cost of living in Sydney, Australia:
+The estimated monthly costs for a family of four are
+₹426,302.7
+(A$6,425.6)
+, excluding rent (using
+our estimator)
+.
+The estimated monthly costs for a single person are
+₹117,823.7
+(A$1,775.9)
+, excluding rent.
+Sydney
+is
+287.0%
+more
+expensive than
+Noida
+(excluding rent, see our
+cost of living index
+).
+Rent in
+Sydney
+is, on average,
+943.5%
+higher
+than in
+Noida
+.
+Do you live in
+Sydney, Australia
+?
+Add data for Sydney!
+Restaurants
+Edit
+Range
+Meal at an Inexpensive Restaurant
+A$25.00
+18.00
+-
+40.00
+Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)
+A$133.70
+80.00
+-
+200.00
+Combo Meal at McDonald's (or Equivalent Fast-Food Meal)
+A$16.00
+15.00
+-
+18.00
+Domestic Draft Beer (0.5 Liter)
+A$11.05
+7.15
+-
+16.00
+Imported Beer (0.33 Liter Bottle)
+A$10.00
+7.00
+-
+15.00
+Cappuccino (Regular Size)
+A$5.57
+4.90
+-
+7.00
+Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)
+A$3.78
+3.00
+-
+5.00
+Bottled Water (0.33 Liter)
+A$3.14
+2.00
+-
+4.00
+Markets
+Edit
+Milk (Regular, 1 Liter)
+A$2.62
+1.60
+-
+4.00
+Fresh White Bread (500 g Loaf)
+A$3.68
+2.13
+-
+6.00
+White Rice (1 kg)
+A$3.36
+1.80
+-
+5.00
+Eggs (12, Large Size)
+A$7.88
+5.00
+-
+10.58
+Local Cheese (1 kg)
+A$17.48
+9.00
+-
+36.00
+Chicken Fillets (1 kg)
+A$13.68
+6.00
+-
+17.40
+Beef Round or Equivalent Back Leg Red Meat (1 kg)
+A$22.00
+12.50
+-
+40.00
+Apples (1 kg)
+A$5.17
+3.50
+-
+6.00
+Bananas (1 kg)
+A$4.43
+3.00
+-
+8.00
+Oranges (1 kg)
+A$4.75
+2.99
+-
+8.00
+Tomatoes (1 kg)
+A$6.77
+3.79
+-
+10.00
+Potatoes (1 kg)
+A$4.18
+2.00
+-
+7.00
+Onions (1 kg)
+A$3.55
+2.00
+-
+5.00
+Lettuce (1 Head)
+A$3.32
+2.80
+-
+4.00
+Bottled Water (1.5 Liter)
+A$1.72
+0.80
+-
+4.00
+Bottle of Wine (Mid-Range)
+A$20.00
+12.00
+-
+30.00
+Domestic Beer (0.5 Liter Bottle)
+A$5.89
+3.00
+-
+10.61
+Imported Beer (0.33 Liter Bottle)
+A$5.75
+3.00
+-
+10.00
+Cigarettes (Pack of 20, Marlboro)
+A$63.99
+50.00
+-
+70.00
+Transportation
+Edit
+One-Way Ticket (Local Transport)
+A$5.60
+3.90
+-
+10.00
+Monthly Public Transport Pass (Regular Price)
+A$217.39
+217.39
+-
+233.00
+Taxi Start (Standard Tariff)
+A$5.00
+3.60
+-
+10.00
+Taxi 1 km (Standard Tariff)
+A$2.29
+2.19
+-
+7.50
+Taxi 1 Hour Waiting (Standard Tariff)
+A$57.32
+56.40
+-
+60.00
+Gasoline (1 Liter)
+A$1.91
+1.70
+-
+2.40
+Volkswagen Golf 1.5 (or Equivalent New Compact Car)
+A$40,000.00
+38,690.00
+-
+45,000.00
+Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car)
+A$41,991.23
+35,000.00
+-
+55,000.00
+Utilities (Monthly)
+Edit
+Basic Utilities for 85 m
+2
+Apartment (Electricity, Heating, Cooling, Water, Garbage)
+A$313.36
+175.00
+-
+530.00
+Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)
+A$33.88
+20.00
+-
+65.00
+Broadband Internet (Unlimited Data, 60 Mbps or Higher)
+A$80.40
+64.99
+-
+100.00
+Sports And Leisure
+Edit
+Monthly Fitness Club Membership
+A$104.00
+75.00
+-
+200.00
+Tennis Court Rental (1 Hour, Weekend)
+A$35.25
+30.00
+-
+38.00
+Cinema Ticket (International Release)
+A$25.00
+20.00
+-
+32.00
+Childcare
+Edit
+Private Full-Day Preschool or Kindergarten, Monthly Fee per Child
+A$3,119.03
+2,600.00
+-
+3,700.00
+International Primary School, Annual Tuition per Child
+A$37,576.40
+22,268.00
+-
+57,000.00
+Clothing And Shoes
+Edit
+Jeans (Levi's 501 or Similar)
+A$108.06
+80.00
+-
+150.00
+Summer Dress in a Chain Store (e.g. Zara or H&M)
+A$103.00
+50.00
+-
+150.00
+Nike Running Shoes (Mid-Range)
+A$153.75
+120.00
+-
+200.00
+Men's Leather Business Shoes
+A$187.92
+100.00
+-
+250.00
+Rent Per Month
+Edit
+1 Bedroom Apartment in City Centre
+A$3,521.84
+2,600.00
+-
+5,000.00
+1 Bedroom Apartment Outside of City Centre
+A$2,403.12
+2,000.00
+-
+3,000.00
+3 Bedroom Apartment in City Centre
+A$7,092.94
+5,500.00
+-
+10,000.00
+3 Bedroom Apartment Outside of City Centre
+A$4,173.24
+3,500.00
+-
+5,850.00
+Buy Apartment Price
+Edit
+Price per Square Meter to Buy Apartment in City Centre
+A$18,395.00
+14,500.00
+-
+22,000.00
+Price per Square Meter to Buy Apartment Outside of Centre
+A$10,539.35
+8,000.00
+-
+14,000.00
+Salaries And Financing
+Edit
+Average Monthly Net Salary (After Tax)
+A$6,010.70
+Annual Mortgage Interest Rate (20-Year Fixed, in %)
+5.83
+5.00
+-
+6.20
+Prices in Sydney
+Every price you add makes our comparisons more accurate and useful!
+Do you live in India?
+Tell us some prices for your city
+This city had 1434 entries in the past 12 months by 176 different contributors.
+Last update: 8 July 2026
+Sources and References
+What are sources and references?
+Sources and References:
+Official Maximum Taxi Fare
+Taxi Fares
+5 Years Fixed Rate Mortgage
+Data Quality Report (Premium)
+Moving to Sydney? Explore:
+Quality of Life in Sydney
+Crime in Sydney
+Health Care in Sydney
+Pollution in Sydney
+Property Prices in Sydney
+Traffic in Sydney
+Distribution of Expenses Using Our Statistical Model:
+Nearby Cities:
+Cost of Living in
+Gosford
+74.54 km
+Cost of Living in
+Wollongong
+83.53 km
+Cost of Living in
+Canberra
+287.41 km
+Cost of Living in
+Queanbeyan
+288.00 km
+Cost of Living in
+Forster
+303.63 km
+This Page in Other Languages:
+Deutsch
+Lebenshaltungskosten in Sydney
+Português
+Custo de Vida em Sydney
+Italiano
+Costo della vita a Sydney
+Français
+Coût de la vie à Sydney
+Español
+Coste de vida en Sídney
+Salary Calculator:
+Got a job offer in Sydney? Estimate your take-home pay with our
+Salary Calculator for Sydney
+.
+Leave a comment:
+20 Comments so far
+Ken Muir
+on May 23, 2026
+:
+The strive for possession by the post baby boomers and their need for the most modern and acceptance of material redundancy (short life) goods are major causes for increased prices. Takeaway food and easy credit also fuel the inflation. Frugal living and incremental purchases (layby) and buy small first then extend are things of the past.. Ken (babyboomer) from Sydney
+Anonymous
+on Jun 05, 2025
+:
+The comment on Sep 17, 2022 is a typical Australian. Ruthless，mean and non-human being. What a peasant. I traveled around the AU and I am telling you that this kind of person are full in this country. What a Pity. Don‘t say others are Karen if you are more annoyed and None should thanks to your custom. Everyone paid plenty of money to immigrate here and do the job you did not like. Your behavior just act really-Chinese behavior.
+Jan
+on May 05, 2025
+:
+I would love to work at Sydney and stay there
+Anonymous
+on Oct 19, 2024
+:
+Australians are generally so rich, even compared to Scandinavia, the US, and Switzerland.
+samiam
+on Sep 02, 2024
+:
+great site, just compared where i live to somewhere i've been and it's close enough.
+Cristina
+on Aug 07, 2023
+:
+People also spend money on doctors, pharmacies, vitamins, and hygienic products... This data is inconsistent.
+Hello 123
+on Oct 03, 2022
+:
+Joe asked below about saving....
+Is it hard - yes and no - but you need to think of what is the purpose of saving also. Living in the USA, Suzie Orman the finance guru always spoke about having a 5 month fund to cover unexpected job losses or health costs. Good advice but don't necessarily need this in Australia because of the different way society and costs are structured - there is less risk:
+* Healthcare - may need to make a modest part payment but will not receive not a catastrophic bill. You will always have access to Healthcare
+* Retirement Savings - 10.5% is paid by your employer and may be accessed in extreme emergency - you will be aiming to have about $500K or more when retiring
+* Kid's College Funds - not needed as costs are less and covered by a tax payment plan
+* Job Loss - less likely with secure employment and if you are made redundant you may receive say a tax free redundancy of say $50k to find another job
+* Illness - you retirement fund may have insurance or you may have months or years of employer benefits accumulated as well as months of holiday leave to get you through this period
+* Mortgages - usually a 6 months freeze or switch to interest only is available
+* Assets - the average person will have greater assets which may be accessed if needed
+* Unemployment and Pensions - modest but better than many other countries
+* Wages - average wages and unskilled wages much higher than USA
+Hello 123
+on Oct 03, 2022
+:
+I have lived in the USA and Australia.
+On average you are likely to accumulate greater wealth in Australia and better off - better salaries, education, heath care, assets. The article below shows that Australians are #1 for median wealth. But if you are going to be one of the 1% that make it big, then America might be for you.
+With job security and 4-8 weeks vacation a year (standard or jobs with flex time) Australians are some of the worlds biggest travelers. America has a low level of overseas travel for the population as a whole with limited vacation, many low wages, and "at will" employment.
+"Despite the cost-of-living crisis, Aussies are now the richest people on the planet, according to a new report. The Credit Suisse Global Wealth Report found that the median personal wealth per Australian adult was a massive $409,055 (US$273,900) - making Aussies the richest people on the planet"
+https://au.news.yahoo.com/australians-are-now-the-richest-people-in-the-world-001758078.html
+Laura
+on Sep 26, 2022
+:
+If Cost of Living is on the high side for you, get a quick loan of any amount, email bank officer to help you, mktdng65@gmail.com , if living is too costly.
+Joe
+on Sep 20, 2022
+:
+HI
+I dont see people saying how much the end up saving..Is it easy to save?
+Anonymous Anonymous
+on Sep 17, 2022
+:
+But I am a Sydney resident and let me tell you firstly this is a city not a country town or village and secondly you should be grateful that customs even allowed you into the country because if u come here u have to accept the fact that this is a city not a country town and everyone's mentality is different so if u don't like it then go and thirdly nobody has time for other people's bullshit u cannot change other people u can only change yourself we are not Europe we are not Russia we are not China we are not Asia So if u can't accept it then leave stop trying to change people I read a review about some idiot saying why are Sydney people so stuck up and said I hate the people in this city And don't like what this big city life thing did to me well duh? Who cares no need to tell the whole world your problems your acting like a Karen pal if u are unhappy then move stop trying to change the place once again when people walk past me I don't get all upset about it.
+Rick
+on Aug 30, 2022
+:
+I see that people ( costs for Sydney ) estimate between $4500 to $5000 for a single and$6000 to $7000 a month per couple with moat costs, but very few mention anything about going out every weekend, socialising, say restaurant, club , weekend traits around greater Sydney etc. From what I read it seems Sydney is a cool place but deathly expencive,from most comments here, and I stand to be corrected, it seems most people just "survive"? Unless you are on at least 200k to 300k a year before you can actually not only survive but enjoy your life?
+Denys Martin
+on Jul 29, 2022
+:
+Mortgage interest rates :
+Very important increases coming each month
+As at 30 July 2022, 5 years fixed rate is 6.84%
+(Commonwealth bank of Australia)
+Expected to be 7.5% on 5 August 2022
+Bushman Sam
+on Jun 27, 2022
+:
+Sydney can get quite expensive. If you're looking at these numbers and think they're looking good just know that you public transport sucks, expect to pay quite a bit on fuel. My current biggest expense is tax followed by rent, then food.
+Tax rates are high, higher than a lot of other countries. Average people are paying close to 32.5% per year. Rent will cost you close to 30%-35% of your AFTER-TAX income. These two already take your income down by 60%. The rest is spent on food, bills, and fuel.
+0 – $18,200	Nil
+$18,201 – $45,000	19 cents for each $1 over $18,200
+$45,001 – $120,000	$5,092 plus 32.5 cents for each $1 over $45,000
+$120,001 – $180,000	$29,467 plus 37 cents for each $1 over $120,000
+Mariola
+on Apr 06, 2022
+:
+We live in Sydney south- west, 2 adults + one 13 yr old child. We are on one income of $70000. I receive $8,000 a year in Family Benefits and Carer Allowance from Centrelink. We manage to pay off our mortgage by $10,000 a year by using a mortgage through the Crown Money Management program (Crown Lending). All income goes into home loan, we get paid a fortnightly allowance for food/fuel/medicines. All bills are paid through the mortgage via direct debit. When we need extra funds we request a drawdown. This product works for us.
+Our expenses are:-
+Mortgage $ 800/month(we purchased our home for $305,000 but had a $150,000 deposit due to a compensation payout. House is now valued at $1,000,000.)
+Food $50/week each = $150 x 4 weeks = $600/month
+Electricity $650/month
+Gas $180/month
+Water $160/month
+Petrol for one car $80 x 4 weeks = $320/month
+3 x mobile phones $200
+Medication $120/month (With a Health Care Card for our son)
+Life insurance $45/ month
+Income protection insurance $ 60/ month
+Clothing...very minimal as we rarely shop for clothes, usually just work uniform for husband and school uniform for son. Underwear and pyjamas for all three as well. I wear same outfit all week so only need to do laundry once a month. I have all the clothes I need (I built a "time capsule" wardrobe over the years and as I don't work my clothing needs are VERY minimal!) My son fits into his uniform for 2 years at a time. Uniforms total $300. My husband only buys uniform when on sale. 5x long- sleeve high-viz shirts, 5 x cargo/drill pants, 2 x high- viz jumpers...about $ 150 for the shirts, $230 for the pants and $ 180 for the jumpers. His uniform lasts 3-4 year's. Work boots $250/ year. Total for underwear/ pyjamas = $230 @ x 3 $690 a year, total for husband for regular everyday clothes $600/year and $450/year for our son.
+We don't drink alcohol, smoke, gamble or party, or go out to eat. We get the occasional Macdonald's/ KFC every 2-3 months @ $ 30 for all three of us x 4-6 = $ 120-$180/year
+Our vice is watching movies. We have a dedicated home theatre room and husband prefers to buy Blu-rays. We have over 3,000 collection. These are only ever purchased on sale, during deals etc. Each movie must be under $15 max. We buy about 5 each month x $15= $75/month.
+Furniture = I bought lots of stuff over with me from my parents and we used $40,000 left over from the compensation payout to get the rest plus renovate one bathroom, paint whole inside (2 storey, 5 bedrooms), put in new carpet, install window shutters, resand/resurface ceramic tiles and install new interior and exterior wooden doors and mesh screen doors.
+We live quite comfortably on our small income. We can afford to live in an expensive city like Sydney thanks to some homework by me when researching when and where to buy, a boost by a compensation payout and my dedication to simple living. For example, our son was in cloth diapers, I use wee- wipes, I only ever purchased his clothes from thrift stores and always bought a few years ahead when something was discounted and I kept to a wardrobe template so I always knew what he needed. This meant he didn't need much clothing because I could mix and match his outfits as they coordinated with each other.
+Aussie man
+on Mar 26, 2022
+:
+No one is going to offer you a job. If you can not even write properly. Get a reality check and stop wasting your time.
+Kirsty
+on Oct 13, 2021
+:
+Fantastic site. Thanks for all the info. I'm using it to help people calculate holiday costs for my site.
+JS
+on Apr 13, 2021
+:
+Hey Anonymous
+The numbers are pretty accurate, a 6 figure income (thats just on 100-120K) is considered mid range and while not everyone makes 6 figures A combined income for most families/couples will be 6 figures. It's very rare to see a single income family in Sydney unless one person is making very good money even still, the higher the income the higher you'll be taxed. Taxes are a lot higher than the US. Wages are pretty high but so is the cost of living so you can't say Aussies are richer than American's just based on wages.
+Anonymous
+on Mar 08, 2021
+:
+Monthly net income data just made me laugh. So everyone in Sydney makes 6 figure salary, huh? Wow I had no idea Aussies are richer than Americans Lol
+Dominic de souza
+on Oct 12, 2020
+:
+These are accurate numbers. We've been living in Sydney for 20 years and these numbers are accurate.
+About
+Numbeo in the News
+Newsletter
+Advertise
+Premium
+API
+Copyright © 2009-2026 Numbeo. Your use of this service is subject to our
+Terms of Use
+and
+Privacy Policy

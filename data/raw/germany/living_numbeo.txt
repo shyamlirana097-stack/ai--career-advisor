@@ -1,0 +1,525 @@
+SOURCE: https://www.numbeo.com/cost-of-living/in/Berlin
+SCRAPED: 2026-07-09
+
+Cost of Living in Berlin. Jul 2026. Prices in Berlin
+N
+NUMBEO
+API
+The World's
+Cost of Living API
+Trusted by 100+ companies across 10+ countries — from fintech and consulting firms to global HR teams.
+Explore the API  →
+Cost of Living in Berlin
+Summary
+of cost of living in Berlin, Germany:
+The estimated monthly costs for a family of four are
+₹396,454.9
+(€3,625.9)
+, excluding rent (using
+our estimator)
+.
+The estimated monthly costs for a single person are
+₹115,985.7
+(€1,060.8)
+, excluding rent.
+Berlin
+is
+249.2%
+more
+expensive than
+Noida
+(excluding rent, see our
+cost of living index
+).
+Rent in
+Berlin
+is, on average,
+539.3%
+higher
+than in
+Noida
+.
+Do you live in
+Berlin, Germany
+?
+Add data for Berlin!
+Restaurants
+Edit
+Range
+Meal at an Inexpensive Restaurant
+€15.00
+12.00
+-
+25.00
+Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)
+€75.00
+50.00
+-
+100.00
+Combo Meal at McDonald's (or Equivalent Fast-Food Meal)
+€12.00
+10.00
+-
+14.00
+Domestic Draft Beer (0.5 Liter)
+€4.90
+3.00
+-
+6.00
+Imported Beer (0.33 Liter Bottle)
+€4.00
+3.00
+-
+5.00
+Cappuccino (Regular Size)
+€4.12
+3.00
+-
+6.00
+Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)
+€3.23
+2.00
+-
+4.00
+Bottled Water (0.33 Liter)
+€2.77
+2.00
+-
+3.50
+Markets
+Edit
+Milk (Regular, 1 Liter)
+€1.13
+0.95
+-
+1.57
+Fresh White Bread (500 g Loaf)
+€2.09
+1.00
+-
+4.00
+White Rice (1 kg)
+€2.94
+1.59
+-
+4.00
+Eggs (12, Large Size)
+€3.76
+2.39
+-
+5.40
+Local Cheese (1 kg)
+€13.88
+6.00
+-
+30.00
+Chicken Fillets (1 kg)
+€11.23
+5.00
+-
+15.00
+Beef Round or Equivalent Back Leg Red Meat (1 kg)
+€15.76
+8.00
+-
+20.00
+Apples (1 kg)
+€3.25
+1.32
+-
+4.00
+Bananas (1 kg)
+€1.80
+1.29
+-
+3.00
+Oranges (1 kg)
+€2.55
+1.65
+-
+4.00
+Tomatoes (1 kg)
+€3.18
+1.40
+-
+5.50
+Potatoes (1 kg)
+€1.74
+0.64
+-
+3.00
+Onions (1 kg)
+€1.67
+0.88
+-
+3.00
+Lettuce (1 Head)
+€1.28
+0.90
+-
+3.00
+Bottled Water (1.5 Liter)
+€0.87
+0.29
+-
+2.50
+Bottle of Wine (Mid-Range)
+€5.50
+3.95
+-
+10.00
+Domestic Beer (0.5 Liter Bottle)
+€1.16
+0.80
+-
+1.80
+Imported Beer (0.33 Liter Bottle)
+€1.68
+1.00
+-
+2.50
+Cigarettes (Pack of 20, Marlboro)
+€9.40
+8.50
+-
+14.00
+Transportation
+Edit
+One-Way Ticket (Local Transport)
+€4.00
+3.20
+-
+4.00
+Monthly Public Transport Pass (Regular Price)
+€63.00
+63.00
+-
+86.00
+Taxi Start (Standard Tariff)
+€4.30
+4.30
+-
+7.00
+Taxi 1 km (Standard Tariff)
+€2.80
+2.50
+-
+2.80
+Taxi 1 Hour Waiting (Standard Tariff)
+€33.00
+33.00
+-
+39.00
+Gasoline (1 Liter)
+€1.87
+1.67
+-
+2.12
+Volkswagen Golf 1.5 (or Equivalent New Compact Car)
+€29,395.00
+28,350.00
+-
+30,000.00
+Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car)
+€33,995.83
+33,340.00
+-
+34,540.00
+Utilities (Monthly)
+Edit
+Basic Utilities for 85 m
+2
+Apartment (Electricity, Heating, Cooling, Water, Garbage)
+€357.91
+250.00
+-
+467.50
+Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)
+€16.29
+9.99
+-
+30.00
+Broadband Internet (Unlimited Data, 60 Mbps or Higher)
+€44.40
+35.00
+-
+60.00
+Sports And Leisure
+Edit
+Monthly Fitness Club Membership
+€34.44
+25.00
+-
+70.00
+Tennis Court Rental (1 Hour, Weekend)
+€33.67
+20.00
+-
+50.00
+Cinema Ticket (International Release)
+€13.00
+11.40
+-
+20.00
+Childcare
+Edit
+Private Full-Day Preschool or Kindergarten, Monthly Fee per Child
+€123.44
+70.00
+-
+250.00
+International Primary School, Annual Tuition per Child
+€12,117.50
+6,000.00
+-
+24,400.00
+Clothing And Shoes
+Edit
+Jeans (Levi's 501 or Similar)
+€80.62
+45.00
+-
+100.00
+Summer Dress in a Chain Store (e.g. Zara or H&M)
+€36.76
+20.00
+-
+60.00
+Nike Running Shoes (Mid-Range)
+€89.67
+60.00
+-
+129.00
+Men's Leather Business Shoes
+€113.00
+60.00
+-
+199.00
+Rent Per Month
+Edit
+1 Bedroom Apartment in City Centre
+€1,304.29
+900.00
+-
+1,650.00
+1 Bedroom Apartment Outside of City Centre
+€952.40
+750.00
+-
+1,200.00
+3 Bedroom Apartment in City Centre
+€2,334.09
+1,900.00
+-
+3,000.00
+3 Bedroom Apartment Outside of City Centre
+€1,800.00
+1,300.00
+-
+2,400.00
+Buy Apartment Price
+Edit
+Price per Square Meter to Buy Apartment in City Centre
+€7,759.48
+6,600.00
+-
+10,000.00
+Price per Square Meter to Buy Apartment Outside of Centre
+€5,243.75
+4,000.00
+-
+6,890.00
+Salaries And Financing
+Edit
+Average Monthly Net Salary (After Tax)
+€2,940.54
+Annual Mortgage Interest Rate (20-Year Fixed, in %)
+3.90
+3.00
+-
+4.50
+Prices in Berlin
+Every price you add makes our comparisons more accurate and useful!
+Do you live in India?
+Tell us some prices for your city
+This city had 2006 entries in the past 12 months by 305 different contributors.
+Last update: 7 July 2026
+Sources and References
+What are sources and references?
+Sources and References:
+Ticket Fares for Public Transportation (German Only)
+Rent Per Month References Source
+Housing Data
+REWE - Dairy Products
+REWE - Bier Category
+Data Quality Report (Premium)
+Moving to Berlin? Explore:
+Quality of Life in Berlin
+Crime in Berlin
+Health Care in Berlin
+Pollution in Berlin
+Property Prices in Berlin
+Traffic in Berlin
+Distribution of Expenses Using Our Statistical Model:
+Nearby Cities:
+Cost of Living in
+Eberswalde, Brandenburg
+56.75 km
+Cost of Living in
+Stendal, Sachsen-Anhalt
+120.77 km
+Cost of Living in
+Eisenhüttenstadt, Brandenburg
+122.48 km
+Cost of Living in
+Neubrandenburg
+142.50 km
+Cost of Living in
+Riesa, Sachsen
+167.07 km
+Cost of Living in
+Halle
+176.32 km
+Cost of Living in
+Dresden
+194.57 km
+Cost of Living in
+Meissen
+195.47 km
+Cost of Living in
+Gifhorn, Niedersachsen
+246.97 km
+Cost of Living in
+Chemnitz
+264.69 km
+This Page in Other Languages:
+Deutsch
+Lebenshaltungskosten in Berlin
+Português
+Custo de Vida em Berlim
+Italiano
+Costo della vita a Berlino
+Français
+Coût de la vie à Berlin
+Español
+Coste de vida en Berlín
+Salary Calculator:
+Got a job offer in Berlin? Estimate your take-home pay with our
+Salary Calculator for Berlin
+.
+Leave a comment:
+20 Comments so far
+Anonymous
+on Jun 27, 2026
+:
+I just wanted to be better informed of Berlin, my niece and her husband is there on vacation, I  want to able to participate in the conversation when they return. Thank you!
+Gwenn
+on May 06, 2026
+:
+Berlin is just awesome. We moved here from the US and were a bit sceptic about income.
+Turns out we're doing more than fine here. Can recommend the city to all fellow americans !
+Anonymous
+on Apr 29, 2026
+:
+Replying to Dude below:
+Potentially yes, but 3 kids can be quite expensive even when Berlin is relatively cheaper than Munich. If you decide to live in the suburbs (assuming good ones) with a 4-5 bedroom apartment, and education is free in Germany. You will be able to save anywhere between 1-2k/month but it might not be good enough for holidays 2-3 times a year and overall savings. However, you should compare it to the place where you are now and how it is compared.
+Dude
+on Apr 15, 2026
+:
+I was wondering, will a salary of 120k annually, as a sole provider, enough to sustain life for a family of 5 ?
+me, spouse, 3 kids under the age of 7 ?
+I mean not just survive, I mean with an average+ education and comfort.
+Do not mean to insult anyone who earns less and think this is a bad question, I just know nothing about living in this country, and was offered an option to persue a relocation.
+Onchky
+on Feb 27, 2026
+:
+Replying to Jeff below:
+Trains delays — wrong. The punctuality rate of DB is 60%, which is bad, but no as bad as stated 20–30%.
+I haven't seen open drug use at HBFs at all. Crime rate is actually extremely low for capital city, it's easy to Google. IDK about Düsseldorf though.
+Taxes are fine, and it's quite unfair mentioning the upper level of progressive tax system (42%), and not mentioning numerous VAT excemptions. No idea which collapsing bridges we are talking about. Rent and energy bills: well, if you get the first offer you see, then why €2000+? Could've easily been €5000+. A year ago I moved in 70 sqm apartment slightly outside the ring, and, with utilities, it costs me €650.
+No idea about cars and business. Flights — quick check reveals that same destinations from Poland are more expensive. Economy smaller than 2019 — from 2019 to 2026, German GDP grew 30%.
+So far, I don't see how exactly Germany is dying. Good luck leaving to Switzerland (with much harder way to naturalize), Netherlands (with much higher costs and less purchasing power), or Poland (LMAO).
+Jeff
+on Nov 21, 2025
+:
+Lived here 18 months: run away.
+Trains are a joke (70–80 % delayed or cancelled; DB is the worst railway in Europe).
+Open drug use at Dusseldorf Airport and main stations while police literally walk past and do nothing. Crime is out of control, whole areas are no-go zones now.
+Taxes rob you blind (42 % + 19 % VAT) for collapsing bridges, broken schools and 9-month waiting lists at doctors. Rent and energy bills are insane: €2000+ for a normal flat in any city.
+Cars are overpriced trash (VW/BMW/Mercedes quality went off a cliff; Chinese cars are better and half the price). Starting a business? Prepare to drown in 1970s paperwork and arrogant bureaucrats who still want paper letters in 2025.
+Flights cost double what they do from Poland or Spain because Lufthansa and taxes. Economy still smaller than 2019, factories closing every week, everyone with talent is leaving for Switzerland, Netherlands or even Poland.
+Germany is dying. It's Western Europe's sick man living on old reputation. Go anywhere else.
+Anonymous
+on Oct 07, 2025
+:
+In Germany the "lazy" refugees contribute more money per capita in taxes than native Germans and are more than twice as likely to start a business. The numbers would be better if the government didn't slam them in ghettoes and actually integrated them and forced them to learn German
+Anonymous
+on May 01, 2025
+:
+In Germany, around 50% of your income goes to taxes and social contributions. A significant portion funds refugees who contribute little or nothing, yet exploit the welfare system. It rewards laziness and is routinely abused - paid for by those who actually work. Hard-working people should seriously consider building their lives in a country that respects their effort.
+Anonymous
+on Dec 03, 2024
+:
+the amount of avg salary is brutto , netto is apporrx 2500eur /month
+Anonymous
+on Aug 18, 2024
+:
+average salary after taxes is lower than that in berlin, even in 2024.
+Maxim Bordyug
+on Jul 27, 2024
+:
+I've heard that Berlin is the least expensive capital in Europe to live in. Not sure if it's true.
+Zunaira Fatima
+on Jul 26, 2024
+:
+Aa of being a stident in Berlin , can we easily get part time jobs with acceptable income to live there and fulfilling daily needs , i mean is this city stident friendly ?
+abdul
+on May 16, 2024
+:
+i have got a job offer in aid industry with a package of 5400 Euros per month. They may add some child allowance upto 300 euros per month .i wanted to understand is it worth to take this offcer and if anyone can offer some help in suggesting the tax and cost of living acomdation and primary shcool fees in international school. Grateful
+wiseman
+on Feb 09, 2024
+:
+I can recommend Berlin, Germany to anyone who wants to receive money without working. In Germany, you will receive Bürgergeld, which is similar to a universal basic income, without the need for employment. However, for those who want to work, Germany is a very bad country, because a significant portion of income taken through various taxes. Additionally, the level of bureaucracy is extremely high, often resulting in lengthy processes for even simple tasks.
+Anonymous
+on Nov 21, 2023
+:
+90k is enough in Berlin to have an easy life here (even if you are not single, still doable). 50-60k salary in Berlin is standard.
+Anonymous
+on Oct 21, 2023
+:
+Is it worth to live there with a salary = 90k for a couple? I got an offer with a relocation package, but I have heard that CoL in Berlin extremely high and Numbeo doesn't show true CoL there.
+Anonymous
+on Oct 02, 2023
+:
+Software developer with 10 years of experience might expect between €80-90kpa, which will amount to about 41-48k net. Despite extreme rise in cost of living, Berlin is still relatively affordable and rent is "reasonable", i will still suggest renting thru an agency as they tend to be predictable and more responsible.
+Anirban
+on Feb 22, 2022
+:
+How much is good annual compensation for a single person with 10 years of software development to stay & work in Berlin. Can anybody share any views on my request with gross salary and net salary after tax deduction?
+Anonymous
+on Oct 08, 2021
+:
+For the sake of independence and survival, Europe must immediately ban gas throughout Europe and the gas must be immediately replaced with other cheaper alternatives coming from such as hydropower plant, Nuclear energy, wood, coal, etc which can be independently produced in Europe without requiring dependence from untrustworthy source.
+It's time to build Nuclear power plant as much as necessary in order to provide sufficient power for Europe as well as to provide the free city transportation including bus and train powered by electricity in order to discourage the public from using the oil fueled cars as  the first step to permanently remove oil dependence from Russia and Russia's manipulated OPEC.
+d.feuerbach
+on Oct 04, 2021
+:
+Dear Numbeo, dear Numbeo users,
+can you please disaggregate reported data points by zip code and allow for longitude and latitude / exact address?
+Once that is done you can use different aggregation levels (city boundaries, metro area vs. zip-Code oder perimeters/polygons)
+In a larger city you have subdistricts where e.g. a certain drink costs EUR 3.00 and another district (500m or 10 km away) where the cost ist EUR 12.00. Seeing an average does not help all that much.
+The point is: Variability within a city can be much higher and also much more relevatn within one city as compared to between different cities.
+Maybe someone can share how this thought may be incorporated within numbeo already or how people typically go about augmenting data in this regard.
+Thank you and best regards
+D.Feuerbach
+About
+Numbeo in the News
+Newsletter
+Advertise
+Premium
+API
+Copyright © 2009-2026 Numbeo. Your use of this service is subject to our
+Terms of Use
+and
+Privacy Policy

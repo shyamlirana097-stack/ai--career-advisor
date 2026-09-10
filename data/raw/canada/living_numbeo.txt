@@ -1,0 +1,996 @@
+SOURCE: https://www.numbeo.com/cost-of-living/in/Toronto
+SCRAPED: 2026-07-09
+
+Cost of Living in Toronto. Jul 2026. Prices in Toronto
+N
+NUMBEO
+API
+The World's
+Cost of Living API
+Trusted by 100+ companies across 10+ countries — from fintech and consulting firms to global HR teams.
+Explore the API  →
+Cost of Living in Toronto
+Summary
+of cost of living in Toronto, Canada:
+The estimated monthly costs for a family of four are
+₹378,685.0
+(C$5,605.3)
+, excluding rent (using
+our estimator)
+.
+The estimated monthly costs for a single person are
+₹102,696.9
+(C$1,520.1)
+, excluding rent.
+Toronto
+is
+216.9%
+more
+expensive than
+Noida
+(excluding rent, see our
+cost of living index
+).
+Rent in
+Toronto
+is, on average,
+598.0%
+higher
+than in
+Noida
+.
+Do you live in
+Toronto, Canada
+?
+Add data for Toronto!
+Restaurants
+Edit
+Range
+Meal at an Inexpensive Restaurant
+C$25.00
+17.00
+-
+40.00
+Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)
+C$120.00
+70.00
+-
+150.00
+Combo Meal at McDonald's (or Equivalent Fast-Food Meal)
+C$15.81
+15.00
+-
+19.00
+Domestic Draft Beer (0.5 Liter)
+C$9.00
+6.00
+-
+12.00
+Imported Beer (0.33 Liter Bottle)
+C$10.00
+7.00
+-
+14.00
+Cappuccino (Regular Size)
+C$5.60
+3.00
+-
+8.00
+Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)
+C$2.98
+2.00
+-
+5.00
+Bottled Water (0.33 Liter)
+C$2.33
+2.00
+-
+3.25
+Markets
+Edit
+Milk (Regular, 1 Liter)
+C$3.76
+1.85
+-
+6.00
+Fresh White Bread (500 g Loaf)
+C$3.97
+2.00
+-
+5.00
+White Rice (1 kg)
+C$3.65
+2.00
+-
+7.00
+Eggs (12, Large Size)
+C$5.01
+3.79
+-
+7.30
+Local Cheese (1 kg)
+C$15.44
+7.50
+-
+60.00
+Chicken Fillets (1 kg)
+C$17.35
+9.00
+-
+27.00
+Beef Round or Equivalent Back Leg Red Meat (1 kg)
+C$23.18
+11.02
+-
+40.00
+Apples (1 kg)
+C$5.38
+3.00
+-
+6.61
+Bananas (1 kg)
+C$1.74
+1.00
+-
+4.00
+Oranges (1 kg)
+C$5.35
+3.00
+-
+8.43
+Tomatoes (1 kg)
+C$5.92
+2.00
+-
+7.50
+Potatoes (1 kg)
+C$2.93
+0.90
+-
+5.51
+Onions (1 kg)
+C$2.31
+1.00
+-
+4.41
+Lettuce (1 Head)
+C$3.43
+2.00
+-
+5.00
+Bottled Water (1.5 Liter)
+C$2.04
+0.75
+-
+4.00
+Bottle of Wine (Mid-Range)
+C$20.00
+15.00
+-
+25.00
+Domestic Beer (0.5 Liter Bottle)
+C$3.37
+2.50
+-
+5.00
+Imported Beer (0.33 Liter Bottle)
+C$4.04
+2.00
+-
+9.00
+Cigarettes (Pack of 20, Marlboro)
+C$20.80
+15.99
+-
+25.00
+Transportation
+Edit
+One-Way Ticket (Local Transport)
+C$3.35
+3.30
+-
+3.50
+Monthly Public Transport Pass (Regular Price)
+C$156.00
+154.00
+-
+158.00
+Taxi Start (Standard Tariff)
+C$4.25
+4.25
+-
+8.00
+Taxi 1 km (Standard Tariff)
+C$1.75
+1.75
+-
+2.00
+Taxi 1 Hour Waiting (Standard Tariff)
+C$31.03
+31.00
+-
+50.00
+Gasoline (1 Liter)
+C$1.74
+1.29
+-
+1.91
+Volkswagen Golf 1.5 (or Equivalent New Compact Car)
+C$37,790.00
+30,000.00
+-
+39,580.00
+Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car)
+C$28,963.27
+27,000.00
+-
+30,357.00
+Utilities (Monthly)
+Edit
+Basic Utilities for 85 m
+2
+Apartment (Electricity, Heating, Cooling, Water, Garbage)
+C$197.72
+140.00
+-
+350.00
+Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)
+C$47.66
+30.00
+-
+85.00
+Broadband Internet (Unlimited Data, 60 Mbps or Higher)
+C$67.23
+50.00
+-
+110.00
+Sports And Leisure
+Edit
+Monthly Fitness Club Membership
+C$60.67
+14.00
+-
+100.00
+Tennis Court Rental (1 Hour, Weekend)
+C$35.55
+25.00
+-
+50.00
+Cinema Ticket (International Release)
+C$19.00
+15.00
+-
+23.00
+Childcare
+Edit
+Private Full-Day Preschool or Kindergarten, Monthly Fee per Child
+C$1,098.13
+500.00
+-
+2,200.00
+International Primary School, Annual Tuition per Child
+C$33,353.75
+22,000.00
+-
+45,000.00
+Clothing And Shoes
+Edit
+Jeans (Levi's 501 or Similar)
+C$81.08
+35.00
+-
+110.00
+Summer Dress in a Chain Store (e.g. Zara or H&M)
+C$61.52
+35.00
+-
+120.00
+Nike Running Shoes (Mid-Range)
+C$140.57
+99.00
+-
+200.00
+Men's Leather Business Shoes
+C$180.53
+110.00
+-
+220.00
+Rent Per Month
+Edit
+1 Bedroom Apartment in City Centre
+C$2,278.79
+2,000.00
+-
+2,700.00
+1 Bedroom Apartment Outside of City Centre
+C$2,025.00
+1,750.00
+-
+2,300.00
+3 Bedroom Apartment in City Centre
+C$3,881.80
+3,400.00
+-
+5,000.00
+3 Bedroom Apartment Outside of City Centre
+C$3,108.00
+2,700.00
+-
+3,600.00
+Buy Apartment Price
+Edit
+Price per Square Meter to Buy Apartment in City Centre
+C$12,447.46
+8,934.05
+-
+17,100.00
+Price per Square Meter to Buy Apartment Outside of Centre
+C$9,741.50
+7,857.65
+-
+12,583.01
+Salaries And Financing
+Edit
+Average Monthly Net Salary (After Tax)
+C$4,825.93
+Annual Mortgage Interest Rate (20-Year Fixed, in %)
+4.58
+3.90
+-
+6.20
+Prices in Toronto
+Every price you add makes our comparisons more accurate and useful!
+Do you live in India?
+Tell us some prices for your city
+This city had 2189 entries in the past 12 months by 357 different contributors.
+Last update: 9 July 2026
+Sources and References
+What are sources and references?
+Sources and References:
+Toronto Transit Commission Fares Prices
+Official Taxi Fees and Tarrifs
+Cost of 4l of Milk
+Private School and Kindergarten
+Gas Price Per L
+Fit for Less Membership
+Data Quality Report (Premium)
+Moving to Toronto? Explore:
+Quality of Life in Toronto
+Crime in Toronto
+Health Care in Toronto
+Pollution in Toronto
+Property Prices in Toronto
+Traffic in Toronto
+Distribution of Expenses Using Our Statistical Model:
+Nearby Cities:
+Cost of Living in
+Vaughan
+25.91 km
+Cost of Living in
+Richmond Hill
+36.81 km
+Cost of Living in
+Oakville
+41.16 km
+Cost of Living in
+Brampton
+44.45 km
+Cost of Living in
+Whitby, ON
+54.47 km
+Cost of Living in
+Burlington
+56.23 km
+Cost of Living in
+Oshawa
+57.75 km
+Cost of Living in
+Hamilton
+71.08 km
+Cost of Living in
+Georgina
+91.81 km
+Cost of Living in
+Guelph
+93.95 km
+This Page in Other Languages:
+Deutsch
+Lebenshaltungskosten in Toronto
+Português
+Custo de Vida em Toronto
+Italiano
+Costo della vita a Toronto
+Français
+Coût de la vie à Toronto
+Español
+Coste de vida en Toronto
+Salary Calculator:
+Got a job offer in Toronto? Estimate your take-home pay with our
+Salary Calculator for Toronto
+.
+Leave a comment:
+100 Comments so far
+Akoke Miemro
+on Jun 25, 2026
+:
+Unless you're starving from famine or fleeing a war zone, moving to Canada much less Toronto is a TERRIBLE proposition for anyone who is living comfortably in their home countries (with that I mean a stable job, stable society and home owner).
+In Toronto, you get the Manhattan cost of living, and attempted privatized healthcare, but with salaries whose purchasing power is lower than a similar worker in Warsaw or any other emerging European country.
+While safety nets might prevent the unemployed from starving, homelessness is on the rise, and one has to be bonkers to leave their middle class lifestyle abroad to live in an economic purgatory.
+Anonymous
+on Jun 14, 2026
+:
+Average is not median, and doesn't truly reflect the real wages of Torontonians.
+Let me explain why: If there are 3 people, one earns $2,999,998, the other earns $1, and the other earns $1. The average would be $3,000,000 divided by 3 people giving an "average of $1,000,000 per capita, when in reality only one is a millionaire and the rest live on a dollar.
+This is why the "average" salary stated on this site should be taken with a grain of salt.
+There are overpaid bureaucrats and CEOs being paid six-figures, but if you're not in the elite club there is NO WAY that the average person in Toronto earns about $5,000 a month. No way.
+And rent is too high in Toronto that $3,000 a month barely covers rent and food. Why move to Toronto to live in the cost of the living of the rich, while living like the working poor?!
+I'm not telling you
+on Jun 12, 2026
+:
+OMG the price is sooo high for stuff I only wanted to do my math in class with this and seeing how much moneys it is is INSANE
+Anonymous
+on May 10, 2026
+:
+Housing prices in Toronto have reached levels that shock even high earners. Renting a modest apartment in these cities can cost more than a mortgage payment in many other developed countries which don't have Deputy Ministers like Christiane Fox embroiled in cronyism scandals while getting to keep their job (China and Singapore do not tolerate corruption)
+For immigrants who arrive without an established financial safety net, the math simply does not add up.
+Many skilled workers run the numbers and realize they would be financially, socially and spiritually worse off in Canada than staying in their home country or moving somewhere more affordable.
+Which educated foreign professional wants to struggle in a factory packing boxes for minimum wage while the Canadian bureaucrats hire friends and family and get rewarded for it?
+Ozur
+on May 09, 2026
+:
+Rent should be 25% maximum. 50% or more for rent expense is mind blowing. Some folks have to pay up to 70% even 80% of income just to have a living space. For food should be between 10 and 25% depending on location, quality and lifestyle. Current living wage for 2026 for Toronto is $27.20. Real minimum wage for 2026 is less than $18. The wage gap is more than $9/h. For one year 52weeks x 40h/week x $9/h = 18720 CAD per year income deficit, or $1560 per month wage gap.
+Www.livingwage.ca
+Munis G
+on Apr 30, 2026
+:
+Overpriced hellhole.
+Only temporary general labor jobs. Rent is over 50% of a month's wages.
+Bizarre and surreal political and social politics which contribute to the increased cost of living ( six-figure municipal fees to develop houses) which give the previous homeowners massive windfalls in real estate prices, but put current people at a huge disadvantage (high rents and mortgages).
+Toronto is small town politics with small town wages masquerading as a big city with a high cost of living. Very bad place if you're already established.
+-Munis
+Anonymous
+on Apr 20, 2026
+:
+Toronto is where the newcomer with professional degrees end up suffering and slowly stagnate and perish under a system meant to restrict them from working in their fields.
+The system prevents the professional newcomer from thriving, yet the system expects the unemployed and underemployed newcomer to work in factory just to pay most of the earnings as rental offerings to a modern day feudal corporate landlord.
+Toronto ain't no NYC where degrees get rewarded. Canada is the country with one of the highest population of degree holders, which means that competition for jobs are way more difficult than the States.
+Canada is on a slow inflationary decline. Any newcomer from emerging markets who already own a home and have a good lifestyle in their home country would be doing a great disservice to their lives moving to the hellhole called Canada.
+Unknown
+on Apr 19, 2026
+:
+I'm from PA (Erie), always enjoy a visit but lets face it, Toronto gives over priced a face. I have yet to understand why beef is $C30-40 lb yet citrus like oranges/lemons are so inexpensive. Is it due to the huge citrus growers consortium in Ontario? The COL is ridiculous, I've met many scary intelligent people who can't find a job that utilizes their skills, yet they cant afford to escape either.
+Anonymous
+on Apr 18, 2026
+:
+Overpriced dump and jobs don't pay enough to maintain the same standard of living in a middle income country (C$2000 a month can't even pay the rent, while the same amount in Asia and Eastern Europe affords a mortgage for a mansion, with several cars and house helpers).
+There is also a 15% youth unemployment rate yet the rents are $2,000 a month. Not a great city for a middle class person.
+Tyler
+on Apr 11, 2026
+:
+Canada is corrupt:
+Deputy minister broke rules by hiring unqualified acquaintance: ethics watchdog
+Christiane Fox is now top civilian official in Department of National Defence
+Anonymous
+on Apr 06, 2026
+:
+Speaking as an American who visited Toronto, the Canadian wages when translated to US Dollars are DISMAL compared to what we earn. Ironically, the Canadian public sector has better wages and benefits than the private sector with the exception of US-headquartered companies.
+And while there are complaints about H1B visas being used to import cheaper labor...it ain't got nothing with the modern-day indentured servitude in white collar professions like Toronto. The Canadian temp help agencies act like modern day British empire procurers for indentured laborers.
+Of course the Californian farms are relying on Mexican workers to lower their labor costs, but Canada is on a whole different plane in terms of labor exploitation!!!
+The Mexicans come here to work and then they earn enough to build a second home in Mexico; in Canada, they lure educated immigrants under false pretenses (mainly from Asia), trick them into spending their life savings and assets to migrate to Canada, and the immigrants end up worse off than the Mexican farm workers in Cali!!!
+Now who's more exploitative, "eh" Canada?
+Dmitri
+on Mar 24, 2026
+:
+Canada is like a "second world country" near a first world country like the USA but with "free healthcare".
+But the Toronto we once knew is gone. It's become Manhattanized without the Manhattan salaries and NYC job prospects.
+They expect educated newcomers with advanced degrees and decades of foreign work experience to pack boxes in a warehouse or clean washrooms for minimum wage. This is highly insulting to educated newcomers who are forced to work like a serf. Canada doesn't value talent. It's a small town mentality with Manhattan prices. America, Ireland, Australia and New Zealand are better for educated professionals.
+Anonymous
+on Feb 17, 2026
+:
+I have to agree with many of the comments below.
+Toronto is a cyberpunk anarchic state.
+High rents, too many overpriced condos, and the pale "old stock" Canadians pander to extremist groups just to keep the immigration ponzi scheme going (bringing in too many people from high risk countries which Trump clamped down in America), while the same old stock Canadians are yelling slurs against middle and upper class Indian immigrants.
+So you get the old stock Canadians gladly holding a sign promoting violence against Israelis, while doing hate crimes against Indian nationals. A terrible place!
+Anonymous
+on Jan 31, 2026
+:
+I've lived in Toronto for about 20 years.
+In the past 15 years or so, I have witnessed a decline in the standard of living, rent prices skyrocketing from $900 a month to $2500 a month in less than a decade, the overcrowding, traffic, corruption and increase in crime while the politicians are soft on crime.
+Toronto is a very bad place if you don't live in a wealthy are insulated from the hard knock life.
+Anonymous
+on Jan 30, 2026
+:
+Canada is a deadzone and is getting worse. This country has nothing good to offer. High taxes, big government, and moody, bitter, and docile people.
+More people are waking up to how bad this place is and are packing up and leaving. There is no benefit or incentive here.
+Toronto was good around 1980. Not today. The 1970s was a decent time to live and work in Ontario. The fact is that it's now dead in the water.
+Too many issues, mismanagement, and bad decisions have caused this mess. Canada is going down hill and has been for some time. There are other countries former Canadians are moving to where they don't have to deal with all the grief they faced in Canada.
+Anonymous
+on Jan 25, 2026
+:
+The job market and wages in Toronto are not sustainable for the housing and food costs. Minimum wage of $17.60/hr (about $2640 a month) sounds high to someone from a poor country, but after 15% taxes, rent for an apartment is still about $2000 a month in a crime-ridden area with cockroaches, bedbugs and pests.
+Grocery prices in Toronto are highway robbery with groceries costing $600 a month for one person being the norm. Telecom prices are set by the oligopoly meaning that to get a 10GB monthly data plan, be prepared to pay at least $80 a month from the Big 3 providers Bell, Rogers or Telus.
+And that's if you can find a job in Toronto right now. Canada's largest employer, the federal government is laying off tens of thousands of government workers left, right and centre, and tariffs from the US are causing layoffs in the factories.
+Yet, the greedy corporate landlords still want $2000 a month rent for the cockroach apartment, and greedy housing speculators refuse to lower the price of a home costing millions of dollars despite the quiet economic stagflationary depression.
+Konan
+on Jan 21, 2026
+:
+The Toronto problems are chronic underinvestment, poor living conditions and elevated crime rates. The global village called Toronto needs competent workforce plus really good management. Have to lower drastically the inflow of unskilled folks.
+Mark Thompson
+on Jan 18, 2026
+:
+I would not recommend Toronto solely because the culture there is anti-intellectual and anti-capitalist. Entrepreneurs and risk takers are not rewarded in Canada unlike the States.
+What Toronto is good for is to lure foreigners to bring their capital and end up as an underclass of wage slaves. To personify this, think of a professional degree holder in India who has a good job, a house, two cars and able to afford handymen and housekeepers. As soon as he lands in Toronto, he'd be hard pressed to even find a general labour job for minimum wage.
+Anonymous
+on Jan 04, 2026
+:
+Highly skilled newcomers have a very hard time getting any job now, even minimum wage factory jobs.
+CBC has a news article Highly skilled immigrants leaving Canada at rapid rate: report
+Canada is not the land of milk and honey that it advertises itself as. Maybe for a destitute refugee leaving a war zone, but for an educated and skilled immigrant, Canada is a living hell for them and a downgrade in their social class.
+Pete
+on Jan 01, 2026
+:
+It's a new year, and Toronto will likely continue with:
+1) Rise in rent prices despite "low population growth"
+2) Increased unemployment and corporations being more covert in hiring temp workers to prevent public outcry
+3) Increase in crime which the Toronto Police will do little or nothing about except demand more billions in funding
+4) A city budget in which a large piece of the pie will be for overpaid bureaucrats and police, and less for the working and poor classes.
+It's business as usual in Toronto. Rich get richer, and poor get poorer.
+Anonymous
+on Dec 26, 2025
+:
+If a foreigner is already middle class/upper class, own properties, own their vehicles, have a lot of savings in their home country I don't get the appeal of Toronto these days.
+Toronto is a dumpster. Like, the system in Toronto demand that one pay a fortune to live in a cockroach infested apartments, mice infested apartments which bring in fleas and ticks.
+And the grocery prices keep going up by double-digit percentages every month, yet the statistics don't show it in the inflation report because the real estate industry wants a report of low inflation in order for interest rate cuts which bring in more speculation to the real estate market.
+And don't get me started with the culture of Toronto. It's like an American crime-ridden slum with upscale New York City prices. It's not a good environment if you grew up middle class in your home country. You will be exposed to societal ills that you'd never know about which will affect you psychologically and emotionally.
+Anonymous
+on Dec 18, 2025
+:
+Anonymous on Dec 17, 2025:
+You know that times are rough when an anonymous therapist is on a message board trying to psychoanalyze the board using ad hominem attacks. Canada is going through population decline with about 80,000 less than the previous quarter. Good riddance! Immigration was being used as a ponzi scheme to artificially boost the economy and real estate prices. Now watch home prices and rents go down further!
+Anonymous
+on Dec 15, 2025
+:
+The economic system in Toronto requires a constant influx of newcomers as wage serfs and debt slaves in order to satiate the greed of the 1%, and the bureaucratic elite who defend the interests of the 1% (politicians, police).
+So you get $2,000 a month pest infested apartments in crime-ridden ghettos, while average wages are about $2,000 a month after taxes. Don't be fooled by that inflated $4,800 a month after tax salary. That's the starter wages of the bureaucrats who are paid higher than the private sector. And unemployment is about 10% in Toronto, and more and more people are getting laid off and ending up on EI and welfare which pay a pittance.
+Anonymous
+on Dec 07, 2025
+:
+For a supposed "world class city" many of the apartments are roach and cockroach infested. Many Torontonians believe that they will never be able to enter home ownership.
+And what's very peculiar with Toronto, is that people who walk on the street with their foodbags or groceries peeking out from their cloth bags get verbally harassed or even assaulted by envious people. It's like Canadians are starving worse than third world countries.
+And I've been to many third world countries and have yet to hear about people getting assaulted over food. Toronto is a very unequal place. A playground for the rich and corrupt, and an economic quagmire for the rest who live like feudal serfs.
+Eugine from America
+on Nov 30, 2025
+:
+Dear Dope-inder on Nov 19, 2025:
+1 USD is about $1.40 Canadian dollars, and you can't compare NYC rent prices to Toronto rent prices without comparing jobs and wages in NYC (In NYC, there are way more millionaire professionals live and billionaires than Toronto).
+What do you get in Toronto other than a nepotistic public sector, stagnant business growth, and even low-wage factory jobs are hard to find in Toronto right now. Toronto is built on a feudalistic economy where immigrants are fooled and lied to migrating to Canada in order to create more rental applicants and desperate people looking for any job (a larger unemployed labor pool means wages go down)
+In NYC, even the high school burger flipper is earning at least US$16 ($CAD$22.40) an hour. Meanwhile, in Toronto Supervisors with university degrees are earning the same amount unless they are an overpaid bureaucrat like a teacher or cop.
+The way Toronto is designed is that there are the 1% elites, the 5% investor class, and the 14% bureaucrat class while the remaining 80% have to compete for the low wage jobs and overpriced rentals.
+What Canada is selling to immigrants abroad is a lie in order to keep the top 20% richer while everyone else remains poorer and in desperation.
+Dopinder
+on Nov 19, 2025
+:
+For the people saying Toronto is a more expensive new york take about 5 seconds to do some research and you will find that the cost of the average apartment in Toronto is less than the average apartment in New york unless you are not smart enough to realize that 1 American dollar is about 2 Canadian dollars (Looking at you Americans who can't do basic grade 2 math :D)
+Doug
+on Oct 19, 2025
+:
+I have nothing good to say about Toronto. The city is designed to spend money with little in return. An overpriced mid-tier city that doesn't deserve the high cost of living and terrible job market.
+You'll be wasting years of your life in Toronto with nothing to show for it. On the bright side, someone from a poor country can grind their adult years working until retirement and that's only if they remigrate to their homeland or a foreign country and live off CPP. Even then, that window of retirement abroad is closing in because Toronto is a trap and Canada is on a slow decline.
+Anonymous
+on Oct 13, 2025
+:
+making use of the foodbank when absolutely necessary.
+Oh great another Indian invader abusing the food bank system while being gainfully employed.
+Gregory A
+on Oct 10, 2025
+:
+What is Toronto?
+Answer: A wannabe New York City with high rents, a dismal job market, overpriced everything, corrupt police, antisocial environment (just look at the comments below from men complaining about Toronto females), and a system designed to keep you poor (no upward social mobility).
+Mental illness is on the rise in Toronto because it's a late-stage capitalist dystopia!
+Unless you're rich from the Bridle Path community or from nobility like the John Tory family and Doug Ford family, Toronto is NOT a good city for you.
+Roya
+on Oct 07, 2025
+:
+If you’ve ever wished learning a new language could feel as fun as watching Netflix, check out Fun Fluen — it turns movie scenes into interactive lessons so you pick up real-life phrases effortlessly!”
+Anonymous
+on Oct 03, 2025
+:
+What's scary about Canada is that rent prices are the same bracket across the board. It's not like the States where one can up and leave to a lower cost of living state or city.
+So moving from Toronto to Halifax or Edmonton doesn't make a difference in lower cost of living.
+And the homeless problem is so dire in Toronto that thousands of unhoused people are shuffled across city to city because the shelter system is overwhelmed.
+I'd think twice before permanently settling in Canada. It's not as capitalistic as America where you read about immigrants becoming millionaires and billionaires.
+It's the opposite in Canada where immigrants are used as chattel labor and are condemned to becoming low income serfs until their life expectancy. It's a terrible situation right now.
+Jaswinder Singh Singh
+on Sep 13, 2025
+:
+There is something horribly wrong with the majority of women in Toronto.
+They hate men. Why shouldn't men hate Toronto women back? Oh wait...Justin Trudeau made it illegal to hate women using anti-terrorist laws. Fcuk Canada. I'm heading home to Kashmir despite the persecution by Modiji
+Anonymous
+on Sep 13, 2025
+:
+Toronto is a s c a m and the majority of women are feminist. Good luck with that dystopian city.
+Anonymous
+on Sep 05, 2025
+:
+Aziz Ebrahim, stop lying about India's Overseas Resident law.
+There's nothing stopping one from remigrating to India as an ORI.
+And the issue with Canadian women walking nude in public is that they weaponise their nudity and falsely accuse men, including brown men like you, as creeps and grapists which empower the racist right to attack non-white people.
+Angela
+on Sep 01, 2025
+:
+Toronto is in a terminal decline.
+The streets aren't safe as it used to; young persons are doing more carjackings and crime because of the laissez faire criminal justice system, and prices keep going up while the job market is stagnating.
+It really feels like Toronto is entering the 1970s New York era when it was the hard times there.
+Anonymous
+on Aug 28, 2025
+:
+Aizz on Aug 27, 2025,
+You with your anecdotal BS. Toronto hosts a lot of pro-nude parades during the summer.
+And how can you get a scholarship to attend UofT and end up as a warehouse worker?
+You're lying, and should go back to India, Pajeet
+Anonymous
+on Aug 20, 2025
+:
+Akash, you've come to Canada at the wrong time.
+It's not the 80s or 90s where you could've worked hard and owned property and be able to retire in your homeland.
+And yes, Toronto is a bad city. Rents are too high, wages are too competitive, and the political elites benefit from the massive influx which gives them more indentured labourers and higher rental income because of competition for rentals. Sorry to hear that you've got caught up in the mess called Toronto.
+Anonymous
+on Aug 17, 2025
+:
+Just something funny I realized about Toronto recently, compared to other cities in the world the mansions in the GTA are relatively cheap. No mansions in the GTA cost more than 40 million, although Drake spent more than 100 million on his mansion if he tried to sell he wouldn't get anything near that. Mansions in LA for instance can go for 200 million. But on the lower end a 400 square foot condo downtown goes for 800k. So the low end is very expensive compared to the rest of the world while while the high end is really cheap compared to the rest of the world. Just some food for thought about Toronto.
+Anonymous
+on Aug 10, 2025
+:
+Is there a correlation between too much immigration, population growth and urbanization with the very humid summers and high rental prices?
+Sure looks like it. Toronto has too high rents compared to wages, and the summers are becoming too hot and crowded.
+DJ
+on Aug 07, 2025
+:
+All discussions about that whether city-region is awful or not are long over and done. It's one of the world Titanics. Simply go to their Toronto Pearson Airport, and there's no need to get out and explore. That airport sums it up. That's what happens when 1. Too much immigration for what the place and culture was built to hold, 2. Over-diverse multiCULTural mess. You end up with an airport gate and nothing else.
+Anonymous
+on Aug 07, 2025
+:
+Every year the CNE has openings for seasonal summer jobs.
+This year, for about 1,000 job openings, there were about 80,000+ applicants (online and in person).
+So for every job opening there were 800 people applying for it.
+Doesn't bode well for the housing market and economy if people can't find jobs to pay the extortionate rent prices.
+Anonymous
+on Jul 19, 2025
+:
+One can't have a sustainable city if foreign labour is being used to drive down wages, and expect people to become atomized and exist just to pay for the basic needs.
+In Toronto, you're barely getting above the 3rd notch of Maslow's basic needs. Shelter costs are so exorbitant, and as many complained below, the city is not cohesive and conducive for personal growth. It's like a hellhole and a purgatory, and many can't wait to have a nest egg and leave if it weren't for the exorbitant rents.
+Adam
+on Jul 01, 2025
+:
+I have to agree with Ricky's comment below...Toronto is not what it used to be...I'd say not only Toronto proper, but the Greater Toronto Area region is encountering this slow decline.
+As a Canadian born and lived here all of my life...Toronto doesn't represent Canada. It's an economic hub meant to enrich the political elites and their donors, while everyone else is caught up in the dystopia of political correctness, gender wars, and a bloated police state intended to protect the rich and politically connected social interest groups.
+Anonymous
+on Jun 23, 2025
+:
+Toronto is not worth it.
+No jobs. Salaries are low. Educated immigrants are competing for minimum wage factory jobs.
+There is something strange with how gender relations are expected there in Toronto. It's like men are the underclass, the majority of women are the bureaucratic elite, and the political elites rule over everyone.
+This leads to a chaotic society where immigrants from more socially stable and developing economies are stuck in an economic quagmire and social isolation. It's terrible.
+A lot of international students from India unalive themselves after becoming a victim of the economic feudalism. Some guys get criminal records just for saying hello to women there, but because the woman might hold prejudice against the guy, she calls the cops who ruins his life with a criminal record.
+Ricky
+on Apr 08, 2025
+:
+If you are a Punjabi, Khalistani, pro-Hamas Palestinian, insurgent, separatist, extremist, or violent radical supporting any foreign cause, Canada welcomes you with open arms.  Bring all of your problems to Canada and begin stirring up trouble the moment you arrive.  Canadians will cheerfully subsidize your lifestyle, and the system, including the police, will keep you safe. Canada is a safe sanctuary for the world's waste.
+However, if you're an ambitious, intelligent, and talented person, don't even consider moving to Canada.  You're not supposed to be here.  Your goals will be dashed and your savings devoured by this nation.  With the cost of living continuing to rise, you will have trouble finding work and won't have enough money for food. It's cold 8 months of the year and you will be trapped in this soulless frozen wasteland.
+Anonymous
+on Mar 22, 2025
+:
+You know how bad Toronto is when comments get monitored, flagged and censored more than any other major 1st world city. Toronto is a very bad place for entrepreneurs and go-getters and a paradise for the social interest groups and criminals.
+James
+on Jan 23, 2025
+:
+Kamal rent goes for at least C$2000 a month, with AirBnbs going for at least C$250 a night, or C$5000 a month. There are additional expenses like groceries which are higher than the States.
+Becky
+on Dec 10, 2024
+:
+Just read the growing number of Reddit posts from Toronto and Scarborough people cannot find a job or even have food to eat. Yesterday a report disclosed that about 400,000 Toronto residents don’t have a job
+Anonymous
+on Nov 30, 2024
+:
+Toronto is getting terrible in terms of jobs and shelter costs right now. Despite surging unemployment. Rents remain high and refuse to reflect the dismal state of the Canadian economy right now.
+John
+on Nov 21, 2024
+:
+Low wages high rents and terrible dating scene. Move at your own risk
+Suzy
+on Nov 16, 2024
+:
+Canada is one star hostel with four and a half star hotel prices, highly overrated. Somewhat ok for poor, uneducated folks, but for smart, ambitious people is quite a scam.
+Regret
+on Nov 09, 2024
+:
+My salary gets me through the month and I can't have any savings. I live in a 1 room + 1 bathroom apartment that doesn't even have a kitchen.
+I studied for 3 years through the lockdowns to get a better paying job, but for every single job there are at least 300 applicants.
+Due to all the stress and economic problems, I recently had a hormonal imbalance and tried to find a doctor. After 14 months and 5 referrals I finally found a specialist. It turns out that my condition "isn't covered" by the government and I had to shell out $500 for every injection despite paying exorbitant taxes for the promise of "free" healthcare.
+I used to work in another country and used to drive a brand new Nissan.
+I thought that migrating to Canada would be mutually beneficial to both myself and the country.
+It turns out that Canada is a scam. I came here with almost $90,000, spent everything, and now living paycheck to paycheck.
+Now I'm looking for every opportunity to escape but can't even afford moving away. Avoid coming here at all costs.
+Sky
+on Sep 27, 2024
+:
+Food and rent prices are quite high because of quite higher demand. Lower the demand pressures and prices will come down. Is is doable and quite effective way to stabilize the rent and food inflation. Plus invest tens of billions of dollars in domestic food production and improve the local food standards, too much pverpriced junk food available but lack of real food.
+Al
+on Jul 14, 2024
+:
+If a place like Toronto is the country's largest city with the most things going on and "opportunity", and if a place like Ottawa is the country's capital city, then this is a red flag alert!
+Canada has been surpassed by many countries and growing, and it's just too late.
+Anonymous
+on Jun 22, 2024
+:
+Can't get ahead in Toronto when rent prices keep rising because of lack of housing for newcomers which was designed on purpose to drive up rents, property prices and car insurance costs, while driving down wages via fraudulent student visas used as informal work permits.
+Toronto is not like America where talent is encouraged to grow. You are in Canada to pay only for rent and food, while the rich collect the rent and buy more rental properties to charge higher and higher rents to newcomers and Canadians.
+Anonymous
+on Jun 01, 2024
+:
+They just want you to sell your properties and investments in your home country, and use the proceeds to pay for overpriced rent and food to make the Bridle Path, Forest Hill and Westmount elites richer. It's a s.c.a.m.
+Anonymous
+on May 14, 2024
+:
+These days you can't even find a Bachelor's apartment for 1,800 anywhere in Toronto. Rent prices have gone up. Food prices have skyrocketed in recent years.
+What the Liberal government is doing is bringing in millions of greater fools with their life savings to spend in the declining economy, while protecting the real estate bubble.
+Pete
+on May 11, 2024
+:
+Current headlines indicate that nobody is buying Toronto condos anymore, despite the government bodypacking the country in recent years.
+The Ponzi scheme is slowly falling apart. How can a city with more people than ever not have any money to pay higher rents and consume more consumables? Enjoy the decline.
+Andy
+on May 08, 2024
+:
+It doesn't matter where in Canada...Canada's simply screwed. But that Toronto, it's another story, a nearly sunken ship sabotaged.
+Mary
+on Mar 23, 2024
+:
+Toronto is truly a smudged situation,
+they’re in the middle of a housing, cost of living, and employment crisis and the government doubles immigration rates and jacks up international student admissions only exacerbating the existing issues, they have zero market competitiveness so their goods prices are through the roof, their housing prices only shoot upwards, it’s insane and I feel for the posters below and understand their anger.
+You're just coming to Toronto to become a general labour wage serf.
+Anonymous
+on Mar 09, 2024
+:
+With family business, connections, everything is setup for a foreigner to succeed in his home country.
+In Canada he is nothing, he has nothing, he is starting from scratch. Nobody knows him, no body will help him.
+It takes 5-10 years for an average person to build a life in any country, even more with the rising cost of living.
+Anonymous
+on Feb 24, 2024
+:
+Has anyone noticed that their newsfeed and YouTube feeds have a lot of videos about people complaining about Canada?
+Local Canadian media, and even the BBC have recently reported that many people are leaving Canada. Given that about a quarter of the population lives in the Greater Toronto Area, maybe the posters below are right about the dismal state of affairs.
+Vijay Singh
+on Feb 23, 2024
+:
+No surprise at the comments.Canadian diploma mills masquerading as colleges  have, for years, unethically binged on a huge volume of foreign students who pay exorbitant foreign student fees in the hopes of gaining fast tracked immigration.
+They did this under the blind guise of pro diversity, pro immigration, politics. Canadians who suggested there was a problem were branded as intolerant and silenced with smear campaigns.
+Meanwhile foreign students were being exploited as low cost minimum wage labour by business, packed into overpriced basement rental housing by exploitative landlords, and milked for huge tuition fees by educational institutions who engaged in unethical recruiting practices. It's a scam. Plain and simple.
+What is a better dream? Working an office job in Management in your stable home country where you have a chance to own a home, and save some money, or leaving your comfortable lifestyle to work in Canadian factories and warehouses for minimum wage, while you save nothing because rents are too high?
+Anonymous
+on Feb 21, 2024
+:
+We have the internet accessible in almost every country of the world, and yet I still hear complaints from mainly people on a student visa, complaining how rents are high, and they can't find jobs to supplement their expenses while studying in Canada.
+Canada is declining, and yet, people are fooled into coming into this big dump especially Toronto where rents are about C$2,500/month for a one-bedroom apartment. Petty crime is rising, unhoused people are sleeping in TTC subways because they can't find a rental, and there are so many social ills I can't post because it's explicit.
+If you're a father who has a good job abroad, and is considered middle class in your country, and you have daughters, DO NOT ruin your life by coming to Canada, because poverty can turn good people into desperate situations.
+Dominique
+on Feb 19, 2024
+:
+The western empire especially anglo is over. Canada definitely included. The western world has been attacked for many decades but also self-inflicted. The countries with diversity and where it's always pushed and nauseatingly promoted are on their way down. These places are the areas to avoid. Literally a Titanic.
+Anonymous
+on Feb 18, 2024
+:
+"Rent in Toronto is, on average, 31.5% lower than in Singapore."
+The majority of locals here get subsidies and government housing, not to mention that many of the rentals are expat rentals which skew the average paid locally.
+Singapore salaries are higher because we are one of the financial capitals in a tiny city-state. In Canada, the joke is that surgeons clean toilets in homes owned by blue collar workers with a primary school education.
+Anonymous
+on Feb 15, 2024
+:
+Do you know the Empire State of Mind song by Alicia Keys & JayZ? There is a Toronto version:
+"TORONTO. That is where dreams are broken. There's nothing you can do. Now you're in Toronto. Wrong move!"
+So you want to leave your comfy middle class life abroad to live like a modern day slave in Toronto paying over 50% of your wages in rent to a slumlord? Then be my guest.
+LAUREN G HELE
+on Feb 15, 2024
+:
+It would be nice if you could provide an overall percentage for the cost of living i.e. 3.2%
+Anonymous
+on Feb 14, 2024
+:
+Toronto is Manhattan prices with the job market of a second-tier small city like Cleveland or Rochester.
+The high paying jobs are for those who were already born into wealth to begin with. You will hardly find someone who recently moved to Toronto striking it rich. It's designed that way to enable more wage and rent serfs while the rich get richer.
+Anonymous
+on Feb 11, 2024
+:
+@ Ash
+There are theories that the Eglinton CrossTown Line 5 is deliberately being delayed, because 1) more money for contractors, and 2) they are waiting for the new residents to populate the condos under construction along Thorncliffe Park to Kennedy station.
+In other words, poor and working class people who live in this area do not get any benefits from this subway extension. For the past 10 years, small businesses were forced to close, while condo developers are building a lot of luxurious condos.
+Toronto is becoming a city of haves and have nots
+Ash
+on Feb 08, 2024
+:
+But it should become much bigger (bigger than 5,000 sqkm) and its metro system's length should be at least 1,000 km.
+It took almost 20 years to build a 5 mile subway extension (purple line), and you are dreaming of a 1,000km TTC system?
+Toronto doesn't have the money because the contractors and the politicians will siphon off most of the money. The TTC and Metrolinx can't even get the Eglinton Crosstown up and running despite billions of dollars being spent to build a 20 mile light rail system.
+Anonymous
+on Feb 07, 2024
+:
+Toronto is big city which is attracting a lot people, jobs, cultures and ... every day.
+So, Toronto Urban area should become much bigger. It's land area is around 2,300 to 2,500 sqkm. But it should become much bigger (bigger than 5,000 sqkm) and its metro system's length should be at least 1,000 km.
+Anonymous
+on Feb 03, 2024
+:
+Educated and talented people will find that Toronto masquerades as a large American city, but actually has a small town second-world mentality.
+Not good for anyone who wants success using their education, skills and talent. You're inside a purgatory in Toronto where foreign medical doctors flip burgers at McDonalds, and Nobel Peace Prize nominees are struggling to pay rent for a shared room inside a crowded rooming house.
+Anonymous
+on Jan 16, 2024
+:
+Amnoteor below,
+Toronto treats everyone who isn't rich as a number, a cog in a machine, and a modern day serf. People have a right to complain about the high rents, decline in real wages and unnatural population growth which is affecting the cost of shelter, food and services.
+Amnoteor
+on Jan 15, 2024
+:
+Wow ... comments are a bunch of whiny drivel. Feel free to ignore the losers.
+This site compares numbers, not whiners.
+Anonymous
+on Jan 09, 2024
+:
+Last month (December 2023), Canada added 100 jobs to the economy, mainly part-time net of full time job losses.
+This was during the busy holiday season. 100 part-time jobs added in an economy of 40 million.
+100 new jobs. January 2024 job stats may be worse. Who wants to move to a recession economy, and pay $2,500 a month to rent an apartment when full-time jobs don't exist for new people?
+Anonymous
+on Jan 07, 2024
+:
+All cities in Canada have high cost of living.
+The government thinks everyone has a well paid job and University/College degree which isnt the case.
+Doug Ford and Justin Trudeau need to go same with the liberals.
+Canada needs a change for the better.
+Vena Wang
+on Jan 04, 2024
+:
+Rent is too much. House prices are too much.
+The wages are not able to pay for the rent and home prices, leading to many people sharing rooms in the Greater Toronto Area. It's a modern day slum.
+Rick
+on Jan 02, 2024
+:
+Canada is nearly devoid of culture
+Corporate chains absolutely dominate Canadian life. There are:
+The big five banks (RBC/BMO/CIBC/Scotia/TD)
+The two coffee shops (Timmies and Starbucks)
+The three shopping spots (Canadian Tire/Walmart/Dollarama)
+The seven fast-food joints (McDonald’s/BK/Wendy’s/Harvey’s/A&W/Subway/KFC)
+The one sit-down restaurant monopoly (Swiss Chalet/The Keg/Montanas/East Side Mario’s/Kelsey’s/Milestones)
+Anonymous
+on Dec 27, 2023
+:
+In Canada now and plan to leave.
+Can't get a job, found out my college here likely won't lead to permeant residency, like ever.
+Tuition is coming up for January 2024 and I can't pay and it doesn't lead to a PR card anyway so there's no point. Was living in a tent but now it's -1 celcius and it's too cold for me to remain outside with January and February temperatures getting colder. Heading home back to India broke cold and tired.
+If there's any advice I have for anyone it's don't move to Canada. It is a scam.
+It may have been good 10 years ago but that ship has firmly sailed. It is now a neo feudal hellscape. There is 0 ability to get ahead after high cost of living quality of life is much better in India. You can actually get a job, it's warm, family is around, food is better, etc.
+Anonymous
+on Dec 11, 2023
+:
+Toronto just amazes me. There aren't hiring anywhere regarding part time or minimum wage labor jobs. This is more than a recession going on, yet the politicians are packing this country with demand for housing that rents are $2,500 for a one-bedroom apartment these days in Toronto.
+There are less job vacancies in Toronto to go around for so many people. Many staffing agencies are not hiring and don't have work.
+Pikachu
+on Dec 08, 2023
+:
+This is late stage capitalism.
+The economy works for an increasingly small set of stakeholders while everyone else is merely an indentured serf, including newcomers.
+You just exist to pay rent to those who already owned rental properties. It's a Ponzi Scheme- Canada is a Ponzi scheme.
+Anonymous
+on Dec 07, 2023
+:
+Toronto.
+You leave middle class job in your home country.
+And you end up working as labourer in Toronto for poverty wages.
+You lived in a huge house in your home country.
+And you are now paying $2,000 a month rent for a small apartment.
+Canada is not for the educated and ambitious. There are many barriers to entering the career of your home country, like unions, professional associations and the infamous and impossible request for "Canadian work experience" just for an entry level job.
+If you want to choose to migrate to Toronto this time, you will be worse off, and probably at risk of homelessness. Beware!
+Anonymous
+on Dec 05, 2023
+:
+This has to be a national crisis if foreign students are living in homeless encampments (tent cities) across Toronto.
+Why do people even bother moving to Canada from their comfortable homes to live in tents down by the river in freezing cold?
+Anonymous
+on Dec 05, 2023
+:
+[URGENT] To International Students Living in Tents in the Greater Toronto Area: Preparing for Winter with a HOT TENT setup
+I've noticed that many international students in Canada are currently living in tents due to housing affordability issues.
+With winter approaching, it's crucial to understand that regular tents will not suffice in the extreme cold. To ensure your safety and warmth, I strongly advise investing in a hot tent setup. Here's what you'll need and why:
+Hot Tent: These tents are specifically designed for winter conditions. They're insulated and can withstand heavy snow and wind. Look for one with a stove jack (an opening for a stovepipe).
+Wood Stove: A portable wood stove is essential for heating your tent. It’s safer and more efficient than open fires. Ensure it fits your tent and has a proper venting system to avoid smoke inhalation. I recommend the OneTigris Tiger Roar Tent Stove with Chimney Pipes because some of the cheaper ones leak smoke into the tent and increase your risk of carbon monoxide poisoning.
+Cast Iron Cookware: Great for cooking on your wood stove. Cast iron retains heat well and is durable.
+Portable Carbon Monoxide Detector: This is a lifesaver. Tents are enclosed spaces, and using a stove increases the risk of carbon monoxide poisoning. Always have a functioning detector in your tent.
+Anonymous
+on Dec 03, 2023
+:
+@ anon below:
+Tell that to both immigrants and Canadians who want to leave Canada because of high rents and stagnant wages due to a poor job market. You're probably that Canadian Landlord vulture who openly admitted that he and his landlord friends prey on virgin girls when they want to let a room in their rooming houses.
+Anonymous
+on Dec 02, 2023
+:
+New immigrants should really think about what they can bring to Canada before complaining about how little one can get from here. Stop ranting, intead, work hard and work smart. Anyone will prosper in Canada
+Anonymous
+on Dec 01, 2023
+:
+It’s a fair deal for new immigrants. Either you bring a couple million capital or labour in exchange for your right to live in this beautiful country. It happened in the past, now and in future.
+Anonymous
+on Dec 01, 2023
+:
+The situation in Canada will not get any better, housing prices and rent will stay high, wages will stay low and taxes will get worse.
+Why? Quite simply because the government will continue to market Canada to more naive immigrants overseas and many will continue to fall in the trap, only once they have been here for a certain amount of time will they figure out the realities and by then if they do leave (many end up deleting themselves), there will be a fresh batch of gullible fools to replace them..
+Anonymous
+on Nov 28, 2023
+:
+I do not believe that Toronto will lead to a good life for newcomers because of lack of well paying jobs.
+My concern is that Canadian employers do not consider decades of international work experience and an advanced university degree for a job. For someone in their 30s and 40s, moving to Canada and having to redo high school credits, undergrad and postgrad to meet Canadian experience requirements sound like a money pit.
+This is because no good job will be guaranteed at that time, and by the time you finish your education you'll be 40s and 50s applying for jobs with 20 something young Canadians.
+This leads to many educated newcomers doing menial jobs that are not within their field of profession. The jobs are not enough to afford rent based on affordability criteria.
+Anonymous
+on Nov 23, 2023
+:
+Canada is a scam. They lie to educated people to migrate to Canada, when their foreign work experience and education are not recognized in Canada due to discrimination.
+Canada just wants the immigrants to spend their life savings until they are broke and forced to return to their homelands like a loser.
+Hebrew Israelite
+on Nov 23, 2023
+:
+@ anon below:
+White feminism ruined that guy's life. The Karens living in houses and working in comfy government jobs cry that they are disadvantaged more than the unemployable brown guy with special needs that he cannot function more than being a sign holder.
+The white woman is the DEVIL in Canada. Brown men are entering HELL if they decide to migrate to Canada.
+Anonymous
+on Nov 22, 2023
+:
+Foreign born Toronto man can't find a job:
+https://youtu.be/s8e4O3n_XBo?feature=shared
+Don't leave your good life, to live in Canada and end up like that guy.
+Rick
+on Nov 19, 2023
+:
+Who in the hell would now want to immigrate to Canada? Outrageous housing costs, which consume most of your income. One has to work at least two to three jobs just to try to keep from completely drowning economically. A healthcare system which is on life support. It is next to impossible to get a doctor. Emergency waits times at hospitals can range from 4 to 24 hours. Traffic from hell in all the major cities .... particularly Toronto, Montreal and Vancouver. The crushing cost of living. A political leader who is a complete fool who has basically destroyed the country in just 8 years. As if all of this wasn't bad enough ...... 5 months of winter from hell. Living in Canada is now an extreme struggle in every way imaginable. One will always struggle. One will always work like a dog. Furthermore, one will very likely fall into extreme debt in Canada just to survive. One has to pay outrageous taxes on their income, leaving them with about 50% of what they actually earn after they have paid all the combined taxes on everything that they buy or services that they use. Forget about ever being able to save money. Incomes are about 35% less than in other advanced countries for the same skilled job. One will never own a home. One will never be able to start a family. One will always freeze in the winter. Life in Canada has become an absolute hell. The Canadian dream is as dead as dead can be. It is no longer a country where one can earn a decent living, own a home and live a good life. On top of all of this, it has an authoritarian government which keeps passing new laws to reduce free speech and civil rights.
+Canada
+on Nov 18, 2023
+:
+It's incredibly hard to live here. I don't know how people are able to do it.
+Cost of living is so insanely high. Everything is expensive. People are mentally unstable due to stress.
+So many homeless people not just in the city but across Canada.
+It's also a really really boring city.
+Anonymous
+on Nov 16, 2023
+:
+Europeans, even Ukrainians have higher standards of living. They won't as easily allow themselves to live like simpleton Indians. Indians are perfectly okay living like cockroaches with 39 other people in one house.
+We shouldn't be expected to live like an Indian simpleton.
+Justin
+on Nov 15, 2023
+:
+Toronto just want wage serfs to pay rent to a feudalistic landlord with no chance to become a property owner.
+You'd be a sucker to liquidate your assets to pay rent in a crowded basement to enrich those who already own property.
+Anonymous
+on Nov 14, 2023
+:
+I have full empathy for newcomers and students who are the most receiving end and have long term impact
+In Toronto, Indian students can't even afford a room with roommates anymore, they rent time periods in beds. Say there's a room with 9 bunk beds in it, one of the beds is rented from 12 to 8 pm to one student, then from 8 pm to 4 am to another student, then from 4 am to 12 to another, and it's still so expensive.
+Even minimum-salary jobs are hard to get, for every job open there are 150-200 students applying, and minimum salary jobs will NOT get you $4000 a months, you'll be lucky to make 1200 after tax and commute expenses. It's a desperate situation.
+Jai Hanuman
+on Nov 09, 2023
+:
+Canada wants Indian nationals to do the menial jobs no matter how educated and professional they were in their home countries. I'm puzzled as to why Indian nationals are continuing to jump into this economic dumpster-fire knowing what awaits them in Canada.
+It baffles me. Everyone who has access to the internet knows that Canada is not the land of milk and honey, and many foreigners will be worse off in Canada than they were in their home countries.
+The joke that Toronto has the most educated taxi drivers who used to be doctors was a joke since the 1990s! It hasn't gotten any better because the rents are too high, and many full time jobs have been contracted to staffing agencies.
+Anonymous
+on Nov 09, 2023
+:
+If you studied and graduated in your home country's university and have a stable job in the your home country why do you have to move to Canada.
+No problem working abroad but to be immigrant to other countries like Canada must be a suicide mission, because you will be downgrading your career working menial jobs. Docs who conducted surgeries in the UK are driving beck taxi or working in warehouses as genera labor. Thats the situation. Overqualified immigrants doing dead-end jobs in Canada. No future.
+You would've been better off in your home country. But now you're grinding away in Toronto paying most of your paycheque in rent for a single room. What a pity that you placed yourself in this dire predicament.
+About
+Numbeo in the News
+Newsletter
+Advertise
+Premium
+API
+Copyright © 2009-2026 Numbeo. Your use of this service is subject to our
+Terms of Use
+and
+Privacy Policy

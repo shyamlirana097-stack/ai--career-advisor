@@ -1,0 +1,458 @@
+SOURCE: https://www.numbeo.com/cost-of-living/in/Boston
+SCRAPED: 2026-07-09
+
+Cost of Living in Boston, Massachusetts. Jul 2026. Prices in Boston
+N
+NUMBEO
+API
+The World's
+Cost of Living API
+Trusted by 100+ companies across 10+ countries — from fintech and consulting firms to global HR teams.
+Explore the API  →
+Cost of Living in Boston
+Summary
+of cost of living in Boston, MA, United States:
+The estimated monthly costs for a family of four are
+₹518,401.7
+($5,413.6)
+, excluding rent (using
+our estimator)
+.
+The estimated monthly costs for a single person are
+₹142,623.1
+($1,489.4)
+, excluding rent.
+Boston
+is
+330.3%
+more
+expensive than
+Noida
+(excluding rent, see our
+cost of living index
+).
+Rent in
+Boston
+is, on average,
+1,283.3%
+higher
+than in
+Noida
+.
+Do you live in
+Boston, MA, United States
+?
+Add data for Boston, MA!
+Restaurants
+Edit
+Range
+Meal at an Inexpensive Restaurant
+$27.50
+17.00
+-
+60.00
+Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)
+$110.00
+75.00
+-
+200.00
+Combo Meal at McDonald's (or Equivalent Fast-Food Meal)
+$12.00
+8.75
+-
+15.00
+Domestic Draft Beer (0.5 Liter)
+$8.00
+6.00
+-
+12.00
+Imported Beer (0.33 Liter Bottle)
+$9.00
+8.00
+-
+12.00
+Cappuccino (Regular Size)
+$5.04
+4.00
+-
+7.00
+Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)
+$2.78
+2.00
+-
+4.00
+Bottled Water (0.33 Liter)
+$2.33
+2.00
+-
+4.00
+Markets
+Edit
+Milk (Regular, 1 Liter)
+$1.23
+0.79
+-
+1.77
+Fresh White Bread (500 g Loaf)
+$4.08
+2.08
+-
+6.60
+White Rice (1 kg)
+$6.62
+2.20
+-
+12.00
+Eggs (12, Large Size)
+$5.88
+3.99
+-
+7.99
+Local Cheese (1 kg)
+$15.07
+8.82
+-
+24.25
+Chicken Fillets (1 kg)
+$13.98
+6.61
+-
+22.05
+Beef Round or Equivalent Back Leg Red Meat (1 kg)
+$18.85
+15.41
+-
+24.25
+Apples (1 kg)
+$7.49
+2.20
+-
+13.23
+Bananas (1 kg)
+$2.11
+1.32
+-
+4.41
+Oranges (1 kg)
+$5.55
+2.76
+-
+13.23
+Tomatoes (1 kg)
+$7.17
+2.20
+-
+12.10
+Potatoes (1 kg)
+$4.43
+1.96
+-
+8.82
+Onions (1 kg)
+$4.03
+2.20
+-
+6.61
+Lettuce (1 Head)
+$2.78
+2.00
+-
+4.00
+Bottled Water (1.5 Liter)
+$2.87
+1.00
+-
+6.99
+Bottle of Wine (Mid-Range)
+$16.00
+15.00
+-
+25.00
+Domestic Beer (0.5 Liter Bottle)
+$3.03
+2.10
+-
+4.29
+Imported Beer (0.33 Liter Bottle)
+$5.28
+3.00
+-
+10.00
+Cigarettes (Pack of 20, Marlboro)
+$12.54
+12.54
+-
+20.00
+Transportation
+Edit
+One-Way Ticket (Local Transport)
+$2.40
+2.40
+-
+3.00
+Monthly Public Transport Pass (Regular Price)
+$90.00
+60.00
+-
+90.00
+Taxi Start (Standard Tariff)
+$2.60
+2.60
+-
+2.60
+Taxi 1 km (Standard Tariff)
+$1.75
+1.75
+-
+1.75
+Taxi 1 Hour Waiting (Standard Tariff)
+$28.00
+28.00
+-
+28.00
+Gasoline (1 Liter)
+$1.00
+0.80
+-
+1.14
+Volkswagen Golf 1.5 (or Equivalent New Compact Car)
+$36,584.00
+25,000.00
+-
+36,584.00
+Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car)
+$25,830.13
+24,957.06
+-
+25,920.00
+Utilities (Monthly)
+Edit
+Basic Utilities for 85 m
+2
+Apartment (Electricity, Heating, Cooling, Water, Garbage)
+$245.79
+150.00
+-
+365.97
+Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)
+$57.07
+30.00
+-
+100.00
+Broadband Internet (Unlimited Data, 60 Mbps or Higher)
+$84.49
+55.00
+-
+135.00
+Sports And Leisure
+Edit
+Monthly Fitness Club Membership
+$86.67
+35.00
+-
+250.00
+Tennis Court Rental (1 Hour, Weekend)
+$41.88
+40.00
+-
+50.00
+Cinema Ticket (International Release)
+$15.00
+13.00
+-
+20.00
+Childcare
+Edit
+Private Full-Day Preschool or Kindergarten, Monthly Fee per Child
+$2,850.09
+2,550.00
+-
+3,500.00
+International Primary School, Annual Tuition per Child
+$36,004.38
+27,570.00
+-
+48,620.00
+Clothing And Shoes
+Edit
+Jeans (Levi's 501 or Similar)
+$75.65
+33.00
+-
+120.00
+Summer Dress in a Chain Store (e.g. Zara or H&M)
+$47.18
+25.00
+-
+100.00
+Nike Running Shoes (Mid-Range)
+$118.33
+45.00
+-
+150.00
+Men's Leather Business Shoes
+$167.81
+80.00
+-
+300.00
+Rent Per Month
+Edit
+1 Bedroom Apartment in City Centre
+$3,400.50
+3,000.00
+-
+4,000.00
+1 Bedroom Apartment Outside of City Centre
+$2,600.00
+2,025.00
+-
+3,200.00
+3 Bedroom Apartment in City Centre
+$5,872.55
+5,000.00
+-
+7,500.00
+3 Bedroom Apartment Outside of City Centre
+$3,916.08
+3,200.00
+-
+5,000.00
+Buy Apartment Price
+Edit
+Price per Square Meter to Buy Apartment in City Centre
+$13,709.79
+12,000.00
+-
+14,800.00
+Price per Square Meter to Buy Apartment Outside of Centre
+$6,471.82
+5,900.00
+-
+8,040.64
+Salaries And Financing
+Edit
+Average Monthly Net Salary (After Tax)
+$6,184.02
+Annual Mortgage Interest Rate (20-Year Fixed, in %)
+6.28
+6.00
+-
+7.00
+Prices in Boston, Massachusetts
+Every price you add makes our comparisons more accurate and useful!
+Do you live in India?
+Tell us some prices for your city
+This city had 858 entries in the past 12 months by 103 different contributors.
+Last update: 7 July 2026
+Sources and References
+What are sources and references?
+No sources and references provided yet.
+Data Quality Report (Premium)
+Moving to Boston, MA? Explore:
+Quality of Life in Boston
+Crime in Boston
+Health Care in Boston
+Pollution in Boston
+Property Prices in Boston
+Traffic in Boston
+Distribution of Expenses Using Our Statistical Model:
+Nearby Cities:
+Cost of Living in
+Malden, Massachusetts
+8.82 km
+Cost of Living in
+Lynn, Massachusetts
+16.95 km
+Cost of Living in
+Waltham, Massachusetts
+18.01 km
+Cost of Living in
+Natick, Massachusetts
+29.96 km
+Cost of Living in
+Tewksbury, Massachusetts
+38.52 km
+Cost of Living in
+Brockton, Massachusetts
+39.63 km
+Cost of Living in
+Acton, Massachusetts
+40.12 km
+Cost of Living in
+Ashland, Massachusetts
+41.26 km
+Cost of Living in
+Beverly, Massachusetts
+45.19 km
+Cost of Living in
+Taunton, Massachusetts
+62.65 km
+This Page in Other Languages:
+Deutsch
+Lebenshaltungskosten in Boston
+Português
+Custo de Vida em Boston
+Italiano
+Costo della vita a Boston
+Français
+Coût de la vie à Boston
+Español
+Coste de vida en Boston
+Salary Calculator:
+Got a job offer in Boston? Estimate your take-home pay with our
+Salary Calculator for Boston
+.
+Leave a comment:
+9 Comments so far
+Richard
+on Feb 12, 2026
+:
+Certainly more expensive than stated here... $200/mth for energy ? You wish !
+Health related costs ? Many many thousands a year, nowhere to be seen in these stats here !
+Hailey
+on Jan 02, 2026
+:
+This city is going down the drain, just like Seattle and Portland, junkies popping up everywhere!
+Boston used to be a great city, but since the last 10 years there's no way back to normal.
+We're moving to Ottawa, Canada - our families already left 2 years ago and yes, it is a much better place to live.
+Kevin M.
+on Jun 14, 2024
+:
+The cost of living is high in Boston but it is absolutely NOT represented in the comments below. Much of 'the facts' are simply made up. The last poster, for example: 'Very hard to be broke and rely on the MTA subway which is filled with junkies and always breaking down.' This is completely made up. (it's the MBTA btw)
+Each writer appears to have a big chip on their shoulder, and this begins with them, not Boston.
+Boston Donut
+on Apr 26, 2024
+:
+This city is only suitable for rich students and high earners. Very hard to be broke and rely on the MTA subway which is filled with junkies and always breaking down.
+Alan
+on Apr 18, 2024
+:
+I mean all the talk about science, biotech, schools and blah blah blah is great but I'm sorry this really doesn't merit the price ask to live in not just the area but the state. For what you pay Boston should have better and more varied restaurants, a more vibrant social scene, better eye candy...IDK, just more social warmth. It's not a bad place and the industries it focuses on are important. But it is toe toe toe expensive with places like LA, NYC or London for not enough quirks or life. The state's cost of living comes from there not being enough housing for the populace it has. Either MA has to create more housing to humanize the cost of breathing there or add more amenities/distractions to merit the cost and compete with the more expensive cities that offer more character like NYC. Chicago for example offers way more than Boston in an almost NYC level but it costs less than Boston. MA and Boston are expensive, sure have focused industries, but it is a boring place overall for what you get. Ot doesn't really accommodate for the young, single and without children crowd (18-late 30s-early 40s). Great for the marries, with children or parents in general and the elderly. But for the in-between areas the asking prices are ridiculous unless they're the live to work sort whose social life primarily consists of going to work.
+Anonymous
+on Feb 18, 2024
+:
+Boston is a terrible racist city. And will always be irrelevant compared to cities like New York, LA, San Francisco.
+kb
+on Jan 11, 2024
+:
+To Anon,
+"The entire state lives in a bottle of scotch enebriated,sedated,whatever you want to call it the sheep don't have a clue how to create anything except nothingness."
+Boston is home to the #1 biotechnology industry in the world... everyday science is pushed forward in Boston
+Anonymous
+on Jan 01, 2022
+:
+Boston isn't a progressive city just like Massachusetts isn't either. They're called new englanders for a reason. Nonprogressive just like England is.The entire state lives in a bottle of scotch enebriated,sedated,whatever you want to call it the sheep don't have a clue how to create anything except nothingness.
+Kev
+on Nov 14, 2021
+:
+2021 you can live for a few days in boston with earning 3k a month but you will indeed starve to death after 7 days because 3k is enough to rent a cubical called a studio, but you won't have enough for food. Better chances is to buy an rv and rent a parking spot, probably would cost you 300$ a month for that parking(you won't find street parking) and another 1000$ in expenses aka fuel (you will be stuck in traffic for hours). However the taxes will probably make your wallet bleed and you will eventually starve aswell. Best option honestly is be very lucky and smart and spend 200k on medical school, preferably Harvard, and wait a couple of years until you eventually earn the big bucks, only after, you will be able to afford a 1bd apt in the projects, and be able to afford a 2001 Honda civic and live off ramen. Boston life is good am I right?
+About
+Numbeo in the News
+Newsletter
+Advertise
+Premium
+API
+Copyright © 2009-2026 Numbeo. Your use of this service is subject to our
+Terms of Use
+and
+Privacy Policy
